@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="me.jvt.cucumber:reporting-plugin" />
+          <option value="org.apache.poi:poi-ooxml" />
+          <option value="org.slf4j:slf4j-api" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
